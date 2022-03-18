@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class test{
+public class Vokaltest{
     public static void main(String[] args)
     {
         String eingabe;
