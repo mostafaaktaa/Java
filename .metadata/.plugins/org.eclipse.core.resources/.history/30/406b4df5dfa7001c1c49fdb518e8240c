@@ -1,5 +1,0 @@
-package Uebung05;
-public class Bruch {
-	int zaeler;
-	int nenner;
-}
