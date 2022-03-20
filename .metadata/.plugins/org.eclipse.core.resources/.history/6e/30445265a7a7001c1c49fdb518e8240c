@@ -1,0 +1,13 @@
+package Uebung05;
+
+public class BruchTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stu
+		Bruch b=new Bruch();
+		if (b!=null) {
+			System.out.println("Bruch ist nicht null");
+		}
+	}
+
+}

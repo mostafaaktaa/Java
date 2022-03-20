@@ -1,0 +1,21 @@
+package Uebung05;
+
+public class BruchTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stu
+		Bruch b = new Bruch();
+		if (true) {
+			Bruch x= new Bruch();
+			x.zaeler=1;
+			x.nenner=4;
+			b=x;
+			System.out.println(x.zaeler);
+			System.out.println(x.nenner);
+			System.out.println(b.zaeler);
+			System.out.println(b.nenner);
+		}
+		
+	}
+
+}

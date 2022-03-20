@@ -1,0 +1,9 @@
+package Uebung05;
+public class Bruch {
+	int zaeler;
+	int nenner;
+	void ausgeben() {
+		int nenner=0;
+		System.out.println(zaeler + " / " + this.nenner);
+	}
+}
